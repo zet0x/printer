@@ -1,0 +1,22 @@
+ ID          User      Page  Result      Time          
+--------------------------------------------------------
+ 138         Sergey.P     1  Finished    17/12/12 22:29
+ 139         Olga.Ovc     5  Finished    17/12/12 22:47
+ 140         Sergey.P     4  Finished    17/12/12 23:32
+ 141         Olga.Ovc     5  Finished    17/12/12 23:11
+ 142         Olga.Ovc     6  Finished    17/12/12 23:22 
+143    Rulipmte   90  Finished   -----------
+144    Octavian   40  Finished   -----------
+145    Octavian   30  Finished   -----------
+ 146         Olga.Ovc     11  Finished    17/12/13 11:11
+ 147         Olga.Ovc     3  Finished    17/12/13 11:22 
+ 148         Rulipmte     6  Finished    17/12/13 21:53
+149         Sergey.P     12  Finished    17/12/12 23:32
+ 150         Olga.Ovc     53  Finished    17/12/12 23:11
+ 151         Olga.Ovc     32  Finished    17/12/12 23:22 
+152    Rulipmte   90  Finished   -----------
+153    Octavian   40  Finished   -----------
+154    Octavian   30  Finished   -----------
+ 155         Olga.Ovc     11  Finished    17/12/13 11:11
+ 156         Olga.Ovc     3  Finished    17/12/13 11:22 
+ 157         Rulipmte     62  Finished    17/12/13 21:53

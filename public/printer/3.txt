@@ -1,0 +1,22 @@
+ ID          User      Page  Result      Time           
+--------------------------------------------------------
+ 4154        Sergi     2  Finished    17/12/12 09:45
+ 4155                     1  Finished    --------------
+ 4156                     1  Finished    --------------
+ 4157                     1  Finished    --------------
+ 4158                     1  Finished    --------------
+ 4159             1  Finished    17/12/12 09:48
+ 4160        Vasya     1  Finished    17/12/12 10:06
+ 4161        Lizaa    10  Finished    17/12/12 10:11
+ 4162        Vasya     3  Finished    17/12/12 10:11
+ 4163        Sergi     3  Finished    17/12/12 10:11
+ 4164        Vasya     4  Finished    17/12/12 10:12
+ 4165                     2  Finished    --------------
+ 4166        Vasya     2  Finished    17/12/12 10:13
+ 4167        Vasya     1  Finished    17/12/12 10:19
+ 4168        Vasya     1  Finished    17/12/12 10:30
+ 4169        Vasya     1  Finished    17/12/12 10:48
+ 4170        Sergi     1  Finished    17/12/12 10:48
+ 4171        Sergi     2  Finished    17/12/12 10:49
+ 4172        Sergi    18  Finished    17/12/12 10:58
+ 4173        Lizaa     1  Finished    17/12/12 11:01 

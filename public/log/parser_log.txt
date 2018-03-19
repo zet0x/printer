@@ -1,0 +1,32 @@
+
+2017-12-14 10:30:10
+-----------------------
+{"status":"1","printer_name":"RULIPPRN2036","message":"no updates"}
+{"status":"1","printer_name":"RULIPPRN1741","message":"no updates"}
+{"status":"1","printer_name":"RULIPPRN3595","message":"no updates"}
+{"status":"0","printer_name":"SKHLOPRN2746","error":"Not file"}
+-----------------------
+
+2017-12-14 10:31:04
+-----------------------
+{"status":"1","printer_name":"RULIPPRN2036","message":"no updates"}
+{"status":"1","printer_name":"RULIPPRN1741","message":"no updates"}
+{"status":"1","printer_name":"RULIPPRN3595","message":"no updates"}
+{"status":"0","printer_name":"SKHLOPRN2746","error":"Not file"}
+-----------------------
+
+2017-12-14 10:32:20
+-----------------------
+{"status":"1","printer_name":"RULIPPRN2036","message":"base updated"}
+{"status":"1","printer_name":"RULIPPRN1741","message":"no updates"}
+{"status":"1","printer_name":"RULIPPRN3595","message":"no updates"}
+{"status":"0","printer_name":"SKHLOPRN2746","error":"Not file"}
+-----------------------
+
+2017-12-14 11:15:43
+-----------------------
+{"status":"1","printer_name":"RULIPPRN2036","message":"no updates"}
+{"status":"1","printer_name":"RULIPPRN1741","message":"no updates"}
+{"status":"1","printer_name":"RULIPPRN3595","message":"no updates"}
+{"status":"0","printer_name":"SKHLOPRN2746","error":"Not file"}
+-----------------------

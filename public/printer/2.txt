@@ -1,0 +1,22 @@
+ ID          User      Page  Result      Time           
+--------------------------------------------------------
+ 4154        RULIPLab     2  Finished    17/12/12 09:45
+ 4155                     1  Finished    --------------
+ 4156                     1  Finished    --------------
+ 4157                     1  Finished    --------------
+ 4158                     1  Finished    --------------
+ 4159        RULIPLab     1  Finished    17/12/12 09:48
+ 4160        Svetlana     1  Finished    17/12/12 10:06
+ 4161        RULIPLab    10  Finished    17/12/12 10:11
+ 4162        RULIPLab     3  Finished    17/12/12 10:11
+ 4163        RULIPLab     3  Finished    17/12/12 10:11
+ 4164        RULIPLab     4  Finished    17/12/12 10:12
+ 4165                     2  Finished    --------------
+ 4166        RULIPLab     2  Finished    17/12/12 10:13
+ 4167        Svetlana     1  Finished    17/12/12 10:19
+ 4168        Svetlana     1  Finished    17/12/12 10:30
+ 4169        Svetlana     1  Finished    17/12/12 10:48
+ 4170        Svetlana     1  Finished    17/12/12 10:48
+ 4171        Svetlana     2  Finished    17/12/12 10:49
+ 4172        Svetlana    18  Finished    17/12/12 10:58
+ 4173        Elizavet     1  Finished    17/12/12 11:01 
